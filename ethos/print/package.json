@@ -1,0 +1,12 @@
+{
+  "name": "@ethos/print",
+  "version": "1.0.0",
+  "description": "Design system for print media design",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

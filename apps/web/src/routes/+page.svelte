@@ -1,7 +1,9 @@
 <script lang="ts">
-  import { MyCounterButton } from 'ui';
+  import { MyCounterButton } from '@ethos/ui';
+  import { Company } from '@ethos/ui';
 </script>
 
+<Company />
 <h1>Web</h1>
 <MyCounterButton />
 
